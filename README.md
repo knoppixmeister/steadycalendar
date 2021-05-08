@@ -1,16 +1,16 @@
 # steadycalendar
 
-A new Flutter project.
+App website: [steadycalendar.com](https://www.steadycalendar.com/)
 
-## Getting Started
+This project containers the source code for a full, end to end Flutter example as part of a new course on [fluttercrashcourse.com](https://fluttercrashcourse.com). 
 
-This project is a starting point for a Flutter application.
+We will _fully_ develop this app along with a backend, using [supabase.io](https://supabase.io), Google Cloud Platform and submit it to the Apple and Android app store.
 
-A few resources to get you started if this is your first Flutter project:
+Course notes are [here](https://docs.google.com/document/d/1Nd3Zi87P94Uj8uqIz_egMAWj2gKFgw5bQiRrd5g4evw/edit?usp=sharing) on Google Docs. They are a wip and will be built out as we go.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Questions? Join the channel for this app on my [Discord server](https://discord.gg/X5pfkswf)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Want to join in on some of live coding sessions? Join [my YouTube channel](https://www.youtube.com/channel/UCRCpzcQz-t2ueVihCIx5jDg)
+
+Connect on Twitter [@seenickcode](https://twitter.com/seenickcode)
+
